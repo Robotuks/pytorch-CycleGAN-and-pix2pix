@@ -1,3 +1,5 @@
+THIS IS A COPY OF THE [OFFICIAL CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) CODE.
+
 <img src='imgs/horse2zebra.gif' align="right" width=384>
 
 <br><br><br>
